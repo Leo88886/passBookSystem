@@ -1,6 +1,6 @@
 package com.imooc.passbook.constant;
 
-//错误码枚举定义
+//错误码枚举定义++测试提交2
 public enum ErrorCode {
 
     SUCCESS(0,""),
